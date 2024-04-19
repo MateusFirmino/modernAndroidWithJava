@@ -1,8 +1,10 @@
-package com.devtides.countriesapp;
+package com.devtides.countriesapp.view;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.devtides.countriesapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
