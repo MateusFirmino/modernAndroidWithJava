@@ -11,6 +11,7 @@
         android:padding="8dp"/>
 
     <LinearLayout
+        android:id="@+id/table_of_contents"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="2"
